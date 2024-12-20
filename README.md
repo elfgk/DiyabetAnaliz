@@ -1,6 +1,6 @@
 # Diyabet Tahmin Arayüzü
 
-Bu proje, diyabet riski tahmini yapmak için geliştirilmiş bir Python uygulamasıdır. Makine öğrenimi modelini kullanarak, kullanıcılardan alınan sağlık verileriyle diyabet riski tahmini yapılır. Kullanıcılar, çeşitli sağlık parametrelerini girerek bu tahmini alabilirler. --> https://huggingface.co/spaces/elfgk/diyabettahmin
+Bu proje, diyabet riski tahmini yapmak için geliştirilmiş bir Python uygulamasıdır. Makine öğrenimi modelini kullanarak, kullanıcılardan alınan sağlık verileriyle diyabet riski tahmini yapılır. Kullanıcılar, çeşitli sağlık parametrelerini girerek bu tahmini alabilirler. -->  [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/elfgk/diyabettahmin)
 
 ## Özellikler
 
