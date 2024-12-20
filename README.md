@@ -11,7 +11,7 @@ Bu proje, diyabet riski tahmini yapmak için geliştirilmiş bir Python uygulama
 - **Diyabet Soy Ağacı Fonksiyonu (Diabetes Pedigree Function)**
 - **Yaş (Age)**
 
-Modelim, bu girdileri kullanarak diyabetin olup olmadığını tahmin eder.
+Model, bu girdileri kullanarak diyabetin olup olmadığını tahmin eder.
 
 ## Kullanım
 
